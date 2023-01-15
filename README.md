@@ -1,5 +1,8 @@
-# Novo ano, metas novas! 🎇🎇
+# Hi, i'm jeff 👋
 
-Esse projeto é um projeto vazio em nestjs, um simples commit para dar inicio a uma jornada em busca do próximo nivel na minha carreira de programador.
+About me
+- I do really love tests. *Test everything!!!*
+- JavaScript is my favorite language.
+- I use vscode for everything, seriously.
+- Apart from coding, I also watch anime, **a lot**.
 
-![Asta](assets/asta.jpg "Anão bombado!")
