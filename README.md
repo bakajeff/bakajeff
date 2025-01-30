@@ -4,5 +4,5 @@ Bachelor's in Information systems. I'm a full stack developer with a passion for
 
 - My favorite programming language is Elixir
 - I'm currently using zed as my main editor
-- Currently learning SwiftUI
+- Currently learning SwiftUI and serverless
 - My hobby is to watch anime
